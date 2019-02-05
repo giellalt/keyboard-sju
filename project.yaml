@@ -3,10 +3,10 @@ internalName: sju
 locales:
   en:
     name: &bundleName "Ume Sami Keyboards"
-    description: "Mobile OS keyboards for the Ume Sami language from the Divvun group at UiT."
+    description: "Keyboards for the Ume Sami language from the Divvun group at UiT."
   nb:
-    name: "Ume Sami tastatur"
-    description: "Mobiltastatur for Ume Sami fra Divvun-gruppa."
+    name: "Umesamisk tastatur"
+    description: "Tastatur for umesamisk fra Divvun-gruppa."
 
 author: The Divvun Group, UiT Norgga árktalaš universitehta
 email: feedback@divvun.no
@@ -46,4 +46,4 @@ targets:
     appName: *bundleName
     version: 0.1.0
     url: "http://divvun.no"
-    uuid: "replace-with-real-uuid-one-for-each-language"
+    uuid: "A4968A00-7685-49F4-9C82-7CDA5BFDCA15"
