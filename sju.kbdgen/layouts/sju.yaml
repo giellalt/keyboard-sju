@@ -1,0 +1,31 @@
+displayNames:
+  sju: Ume Sami
+  en: Ume Sami
+modes:
+  mobile:
+    default: |
+      á š e r t y u ü i o p å
+      a s d f g h j k l đ ŧ ä
+      ž z č c v b n m ŋ ï ö
+    shift: |
+      Á Š E R T Y U Ü I O P Å
+      A S D F G H J K L Đ Ŧ Ä
+      Ž Z Č C V B N M Ŋ Ï Ö
+longpress:
+  Á: Q
+  A: Æ Ä Å
+  Č: X
+  O: Ø Ö
+  V: W
+  á: q
+  a: æ ä å
+  č: x
+  o: ø ö
+strings:
+  space: gaska
+  return: linnjámolsun
+targets:
+  ios:
+    legacyName: sju-mob
+  android:
+    legacyName: sju-mob
