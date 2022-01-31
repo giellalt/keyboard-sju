@@ -7,4 +7,8 @@
 
 # Other information
 
-Add text and links as necessary.
+The Ume Sámi alphabet is as follows:
+
+> a á b d đ e f g h i ï j k l m n ŋ o p r s t ŧ u ü v y å ä ö
+
+Cf [Giellagáldu](http://www.giella.org/about-sami).
