@@ -24,8 +24,3 @@ longpress:
 strings:
   space: gaska
   return: linnjámolsun
-targets:
-  ios:
-    legacyName: sju-mob
-  android:
-    legacyName: sju-mob
