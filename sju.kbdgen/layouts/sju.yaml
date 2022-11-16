@@ -128,6 +128,26 @@ longpress:
   c: č
   o: ø ö
   ü: y
+
 strings:
   space: gaska
   return: linnjámolsun
+
+space:
+  mac:
+    caps: '\u{A0}'
+    alt: '\u{A0}'
+    alt+shift: '\u{A0}'
+    caps+alt: '\u{A0}'
+    cmd+alt: '\u{A0}'
+
+targets:
+  ios:
+    spellerPackageKey: https://pahkat.uit.no/main/packages/speller-sju?platform=mobile
+    spellerPath: sju.bhfst
+  android:
+    spellerPackageKey: https://pahkat.uit.no/main/packages/speller-sju?platform=mobile
+    spellerPath: sju.bhfst
+  win:
+    locale: sju-Latn-NO
+    languageName: Ubmejesámiengiälla
