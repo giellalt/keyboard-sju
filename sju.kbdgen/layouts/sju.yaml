@@ -15,6 +15,16 @@ android:
         Á W E R T Ü U I O P Å
         A S D F G H J K L Ö Ä
         \s{shift} Z X C V B N M Ŋ Ï Đ Ŧ \s{backspace}
+  tablet-600:
+    layers:
+      default: |
+        á w e r t ü u i o p å
+        a s d f g h j k l ö ä
+        \s{shift} z x c v b n m ŋ ï đ ŧ \s{backspace}
+      shift: |
+        Á W E R T Ü U I O P Å
+        A S D F G H J K L Ö Ä
+        \s{shift} Z X C V B N M Ŋ Ï Đ Ŧ \s{backspace}
 iOS:
   config:
     spellerPackageKey: https://pahkat.uit.no/main/packages/speller-sju?channel=nightly&platform=mobile
