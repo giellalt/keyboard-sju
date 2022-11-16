@@ -143,10 +143,10 @@ space:
 
 targets:
   ios:
-    spellerPackageKey: https://pahkat.uit.no/main/packages/speller-sju?platform=mobile
+    spellerPackageKey: https://pahkat.uit.no/main/packages/speller-sju?channel=nightly&platform=mobile
     spellerPath: sju.bhfst
   android:
-    spellerPackageKey: https://pahkat.uit.no/main/packages/speller-sju?platform=mobile
+    spellerPackageKey: https://pahkat.uit.no/main/packages/speller-sju?channel=nightly&platform=mobile
     spellerPath: sju.bhfst
   win:
     locale: sju-Latn-NO
