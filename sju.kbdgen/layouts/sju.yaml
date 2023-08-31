@@ -48,6 +48,7 @@ iOS:
         _ \ | ~ < > € $ £ •
         \s{shiftSymbols} \s{spacer:0.25} . , ? ! ' \s{spacer:0.25} \s{backspace}
   iPad-9in:
+    layers:
       default: |
         á w e r t ü u i o p å
         a s d f g h j k l ö ä
@@ -65,6 +66,7 @@ iOS:
         _ \ | ~ < > € $ £ •
         \s{shiftSymbols} \s{spacer:0.25} . , ? ! ' \s{spacer:0.25} \s{backspace}
   iPad-12in:
+    layers:
       default: |
         á w e r t ü u i o p å
         a s d f g h j k l ö ä
