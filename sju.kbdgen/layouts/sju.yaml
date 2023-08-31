@@ -49,13 +49,13 @@ iOS:
         \s{shiftSymbols} \s{spacer:0.25} . , ? ! ' \s{spacer:0.25} \s{backspace}
   iPad-9in:
       default: |
-        á w e r t y u ü i o p å
-        a s d f g h j k l đ ŧ ä
-        \s{shift} ž z č c v b n m ŋ ï ö \s{backspace}
+        á w e r t ü u i o p å
+        a s d f g h j k l ö ä
+        \s{shift} z x c v b n m ï \s{backspace}
       shift: |
-        Á W E R T Y U Ü I O P Å
-        A S D F G H J K L Đ Ŧ Ä
-        \s{shift} Ž Z Č C V B N M Ŋ Ï Ö \s{backspace}
+        Á W E R T Ü U I O P Å
+        A S D F G H J K L Ö Ä
+        \s{shift} Z X C V B N M Ï \s{backspace}
       symbols-1: |
         1 2 3 4 5 6 7 8 9 0
         - / : ; ( ) kr & @ "
@@ -66,13 +66,13 @@ iOS:
         \s{shiftSymbols} \s{spacer:0.25} . , ? ! ' \s{spacer:0.25} \s{backspace}
   iPad-12in:
       default: |
-        á w e r t y u ü i o p å
-        a s d f g h j k l đ ŧ ä
-        \s{shift} ž z č c v b n m ŋ ï ö \s{backspace}
+        á w e r t ü u i o p å
+        a s d f g h j k l ö ä
+        \s{shift} z x c v b n m ï \s{backspace}
       shift: |
-        Á W E R T Y U Ü I O P Å
-        A S D F G H J K L Đ Ŧ Ä
-        \s{shift} Ž Z Č C V B N M Ŋ Ï Ö \s{backspace}
+        Á W E R T Ü U I O P Å
+        A S D F G H J K L Ö Ä
+        \s{shift} Z X C V B N M Ï \s{backspace}
       symbols-1: |
         1 2 3 4 5 6 7 8 9 0
         - / : ; ( ) kr & @ "
