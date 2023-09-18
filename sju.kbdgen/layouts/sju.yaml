@@ -32,13 +32,13 @@ iOS:
   primary:
     layers:
       default: |
-        á w e r t ü u i o p å
+        á ü e r t y u i o p å
         a s d f g h j k l ö ä
-        \s{shift} z x c v b n m ï \s{backspace}
+        \s{shift} ŧ ï v b n m ŋ đ \s{backspace}
       shift: |
-        Á W E R T Ü U I O P Å
+        Á Ü E R T Y U I O P Å
         A S D F G H J K L Ö Ä
-        \s{shift} Z X C V B N M Ï \s{backspace}
+        \s{shift} Ŧ Ï V B N M Ŋ Đ \s{backspace}
       symbols-1: |
         1 2 3 4 5 6 7 8 9 0
         - / : ; ( ) kr & @ "
