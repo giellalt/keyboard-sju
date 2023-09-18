@@ -90,16 +90,12 @@ macOS:
         § 1 2 3 4 5 6 7 8 9 0 + ´
           á ü e r t y u i o p å ŋ
           a s d f g h j k l ö ä đ
-        < ï ŧ c v b n m , . -
-#       § 1 2 3 4 5 6 7 8 9 0 + ´
-#         á w e r t ü u i o p å ŋ
-#         a s d f g h j k l ö ä đ
-#       < z x c v b n m , . -
+        < ŧ ï c v b n m , . -
       shift: |
         ° ! " # $ % & / ( ) = ? `
-          Á W E R T Ü U I O P Å Ŋ
+          Á Ü E R T Y U I O P Å Ŋ
           A S D F G H J K L Ö Ä Đ 
-        > Z X C V B N M ; : _
+        > Ŧ Ï C V B N M ; : _
       caps: |
         § 1 2 3 4 5 6 7 8 9 0 + ´
           Á W E R T Ü U I O P Å Ŋ
