@@ -76,21 +76,30 @@ iOS:
   iPad-12in:
     layers:
       default: |
-        á w e r t ü u i o p å
-        a s d f g h j k l ö ä
-        \s{shift} z x c v b n m ï \s{backspace}
+        '               1 2 3 4  5 6 7 8 9 0 + ´   \s{backspace:1.5}
+        \s{spacer:1.5}  á ü e r  t y u i o p å ŋ đ
+        \s{caps:1.75}   a s d f  g h j k l ö ä     \s{return:1.75}
+        \s{shift:1.25} < ŧ ï c  v b n m , . -      \s{shift:2.25}
       shift: |
-        Á W E R T Ü U I O P Å
-        A S D F G H J K L Ö Ä
-        \s{shift} Z X C V B N M Ï \s{backspace}
+        §               ! " # kr % & / ( ) = ? `   \s{backspace:1.5}
+        \s{spacer:1.5}  Á Ü E R  T Y U I O P Å Ŋ Đ
+        \s{caps:1.75}   A S D F  G H J K L Ö Ä     \s{return:1.75}
+        \s{shift:1.25} > Ŧ Ï C  V B N M ; : _      \s{shift:2.25}
+      alt: |
+        §               ! " # kr % & / ( ) = ? `   \s{backspace:1.5}
+        \s{spacer:1.5}  q w e r  t y u i o p å ŋ đ
+        \s{caps:1.75}   a s d f  g h j k l ø æ     \s{return:1.75}
+        \s{shift:1.25} < z x c  v b n m ; : _      \s{shift:2.25}
+      alt+shift: |
+        §               ! " # kr % & / ( ) = ? `   \s{backspace:1.5}
+        \s{spacer:1.5}  Q W E R  T Y U I O P Å Ŋ Đ
+        \s{caps:1.75}   A S D F  G H J K L Ø Æ     \s{return:1.75}
+        \s{shift:1.25} > Z X C  V B N M ; : _      \s{shift:2.25}
       symbols-1: |
-        1 2 3 4 5 6 7 8 9 0
-        - / : ; ( ) kr & @ "
-        \s{shiftSymbols} \s{spacer:0.25} . , ? ! ' \s{spacer:0.25} \s{backspace}
-      symbols-2: |
-        [ ] { } # % ^ * + =
-        _ \ | ~ < > € $ £ •
-        \s{shiftSymbols} \s{spacer:0.25} . , ? ! ' \s{spacer:0.25} \s{backspace}
+        `               1 2 3 4 5 6 7  8 9 0 < >   \s{backspace:1.5}
+        \s{spacer:1.5}  [ ] { } # % ^  * + = \ | ~
+        \s{spacer:1.75} - / : ; ( ) kr & @ $ £     \s{return:1.75}
+        \s{spacer:3.25} … . , ? ! ' "  _ €         \s{spacer:2.25}
 macOS:
   primary:
     layers:
