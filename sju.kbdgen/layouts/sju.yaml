@@ -8,23 +8,23 @@ android:
   primary:
     layers:
       default: |
-        á w e r t ü u i o p å
-        a s d f g h j k l ö ä
-        \s{shift} z x c v b n m ï \s{backspace}
+        á         ü e r t y u i o p å
+        a         s d f g h j k l ö ä
+        \s{shift}  ŧ ï v b n m ŋ đ    \s{backspace}
       shift: |
-        Á W E R T Ü U I O P Å
-        A S D F G H J K L Ö Ä
-        \s{shift} Z X C V B N M Ï \s{backspace}
+        Á         Ü E R T Y U I O P Å
+        A         S D F G H J K L Ö Ä
+        \s{shift}  Ŧ Ï V B N M Ŋ Đ    \s{backspace}
   tablet-600:
     layers:
       default: |
-        á w e r t ü u i o p å
-        a s d f g h j k l ö ä
-        \s{shift} z x c v b n m ï \s{backspace}
+        á         ü e r t y u i o p å
+        a         s d f g h j k l ö ä
+        \s{shift}  ŧ ï v b n m ŋ đ    \s{backspace}
       shift: |
-        Á W E R T Ü U I O P Å
-        A S D F G H J K L Ö Ä
-        \s{shift} Z X C V B N M Ï \s{backspace}
+        Á         Ü E R T Y U I O P Å
+        A         S D F G H J K L Ö Ä
+        \s{shift}  Ŧ Ï V B N M Ŋ Đ    \s{backspace}
 iOS:
   config:
     spellerPackageKey: https://pahkat.uit.no/main/packages/speller-sju?channel=nightly&platform=mobile
