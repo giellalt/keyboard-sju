@@ -3,7 +3,7 @@ displayNames:
   en: Ume Sami
 android:
   config:
-    spellerPackageKey: https://pahkat.uit.no/main/packages/speller-sju?channel=nightly&platform=mobile
+#    spellerPackageKey: https://pahkat.uit.no/main/packages/speller-sju?channel=nightly&platform=mobile
     spellerPath: sju.bhfst
   primary:
     layers:
@@ -27,7 +27,7 @@ android:
         \s{shift}  Ŧ Ï V B N M Ŋ Đ    \s{backspace}
 iOS:
   config:
-    spellerPackageKey: https://pahkat.uit.no/main/packages/speller-sju?channel=nightly&platform=mobile
+#    spellerPackageKey: https://pahkat.uit.no/main/packages/speller-sju?channel=nightly&platform=mobile
     spellerPath: sju.bhfst
   primary:
     layers:
