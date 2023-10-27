@@ -267,7 +267,3 @@ keyNames:
 #    route: bálggá
 #  undo: sáŋardh
 #  redo: uđđasth
-
-# When the string "symbol" is specified above, an OS specific symbol is used. For "return" that is typically ⏎,
-# for the other keys it is other symbols. "symbol" can be used both in cases where the word is too long to fit
-# the key, or one can not find a suitable translation for the key.
