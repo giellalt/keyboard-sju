@@ -251,20 +251,20 @@ longpress:
 
 keyNames:
   space: gasska
-  return: "lïnnja\u00ADmålssuome"
+  return: "uđđa linnja"
 #  return-alts:
 #    search: uhttsh
 #    go: rahpph
 #    send: säddh
-#    join: siäbrh   # or: siäbrah?
+#    join: siäbrah
 #    cancel: hevvh
-#    continue: jårkieh
-#    done: gárvies  # or: ållást?
-#    emergency: hiehtie     # unsure, needs verification
+#    continue: jåŧkieh
+#    done: gálggame
+#    emergency: niäđđa
 #    next: båhtieje
 #    route: bálggá
 #  undo: sáŋardh
-#  redo: urrast
+#  redo: uđđasth
 
 # When the string "symbol" is specified above, an OS specific symbol is used. For "return" that is typically ⏎,
 # for the other keys it is other symbols. "symbol" can be used both in cases where the word is too long to fit
