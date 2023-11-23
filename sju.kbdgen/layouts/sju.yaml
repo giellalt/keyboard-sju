@@ -154,7 +154,6 @@ macOS:
           ¯ ß ð ƒ     \u{0} ħ     ˝ ª ł ö ä '
         € ÷ đ ¸ ‹     ›     ‘     ’ ‚ … –
   space:
-    caps: \u{A0}
     alt: \u{A0}
     alt+shift: \u{A0}
     cmd+alt: \u{A0}
