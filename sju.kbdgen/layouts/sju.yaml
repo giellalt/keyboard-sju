@@ -2,9 +2,9 @@ displayNames:
   sju: Ubmejesámiengiälla
   en: Ume Sami
 android:
-  config:
+#  config:
 #    spellerPackageKey: https://pahkat.uit.no/main/packages/speller-sju?channel=nightly&platform=mobile
-    spellerPath: sju.bhfst
+#    spellerPath: sju.bhfst
   primary:
     layers:
       default: |
@@ -26,9 +26,9 @@ android:
         A         S D F G H J K L Ö Ä
         \s{shift}  Ŧ Ï V B N M Ŋ Đ    \s{backspace}
 iOS:
-  config:
+#  config:
 #    spellerPackageKey: https://pahkat.uit.no/main/packages/speller-sju?channel=nightly&platform=mobile
-    spellerPath: sju.bhfst
+#    spellerPath: sju.bhfst
   primary:
     layers:
       default: |
