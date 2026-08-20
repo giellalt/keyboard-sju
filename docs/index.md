@@ -1,11 +1,10 @@
 # Documentation for the Ume Sami keyboards
 
+## Layouts
 
-# Layouts
+- [Layout overview](layout.md)
 
--   [Layout overview](layout.html)
-
-# Other information
+## Other information
 
 The Ume Sámi alphabet is as follows:
 
