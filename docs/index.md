@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 # Documentation for the Ume Sami keyboards
 
 ## Layouts
